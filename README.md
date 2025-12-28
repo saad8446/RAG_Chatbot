@@ -17,7 +17,10 @@ Beyond the base requirements, I implemented **5 advanced enhancements** to impro
 5.  **Sentence Transformers:** replaced basic TF-IDF with `all-MiniLM-L6-v2` for state-of-the-art semantic vector search.
 
 ## 3. Screenshots
-*(Paste 2-3 screenshots here. Recommended: 1 showing the "Cyberpunk" UI with the gradient header, and 1 showing a chat response with source citations)*
+<img width="869" height="494" alt="Screenshot 2025-12-28 135559" src="https://github.com/user-attachments/assets/8f3ec472-2ac6-4422-af7d-fd914c7edf6c" />
+<img width="890" height="499" alt="Screenshot 2025-12-28 135704" src="https://github.com/user-attachments/assets/7e56b127-9cee-40c1-9bb2-8cd6eec1b07d" />
+
+
 
 ## 4. Challenges Faced & Solutions
 * **Challenge:** Handling different file structures (PDF pages vs. Word paragraphs) required different extraction logic.
